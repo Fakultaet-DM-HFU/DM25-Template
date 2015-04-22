@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta content="minimum-scale=1.0, width=device-width, maximum-scale=1, user-scalable=no" name="viewport" />
 <link type="text/css" rel="stylesheet" href="<?php echo(get_template_directory_uri()); ?>/style.css"></link>
+<link type="text/css" rel="stylesheet" href="<?php echo(get_template_directory_uri()); ?>/css/layout.css"></link>
 <link type="text/css" rel="stylesheet" href="<?php echo(get_template_directory_uri()); ?>/css/anmeldeformular.css"></link>
 
 <link rel="stylesheet" type="text/css" href="<?php echo(get_template_directory_uri()); ?>/PlugIns/mfglabs-iconset-master/css/mfglabs_iconset.css">
