@@ -41,7 +41,10 @@
 
             <nav id="footernav">
                     <?php wp_nav_menu( array('theme_location' => 'footer-menu' )); ?>
-            </nav>  
+            </nav>
+            <aside id="sponsor">
+                Mit freundlicher Unterstützung unseres Platin-Sponsors <img src="<?php echo(get_template_directory_uri()); ?>/Sponsoren/KMS.png" class="sponsor-logo" alt="KMS"></img>
+            </aside>
             
         </div><!-- ende footer -->
     </div><!-- vertical-center -->

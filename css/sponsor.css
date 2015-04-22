@@ -1,0 +1,12 @@
+#sponsor{
+    float: left;
+    padding: 20px;
+}
+
+#sponsor img{
+    max-width: 300px;
+    width:40%;
+    float: right;
+    
+}
+
