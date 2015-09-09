@@ -80,6 +80,14 @@ Element-ID_9{
     }
 }
 
+
+#Element-ID_11{
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 6px;
+    text-align: center; 
+}
+
 #Element-ID_12{
     width: 100%;
     margin-top: 15px;
@@ -106,6 +114,7 @@ input[type=checkbox]:checked:before {
 
 #Personenangaben{
     font-size: 1em;
+    margin-bottom: 6px;
 }
 
 /*Checkbox Cursor Bug*/
