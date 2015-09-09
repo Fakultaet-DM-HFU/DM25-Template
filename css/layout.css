@@ -4,6 +4,7 @@
 *Inhalt
 *Hintergrund
 *Gruener Banner Datum
+*Tabelle
 */
 
 
@@ -34,7 +35,7 @@ color: #424242;
 }
 
 a{
-    color: #ec619f;
+    color: #E6007D;
     text-decoration: none;
 }
 
@@ -294,6 +295,7 @@ button{
     color: #FFF;
     font-weight: bold;
     cursor: pointer;
+    margin: 20px;
 }
 
 
@@ -383,3 +385,43 @@ button{
         display: none;
     }
 }
+
+
+/* Tabelle */
+
+
+tabled-view { 
+  width: 100%; 
+  border-collapse: collapse; 
+}
+/* Zebra striping */
+tr:nth-of-type(odd) { 
+
+}
+td, th{
+  text-align: left; 
+  padding: 6px; 
+  border: 1px solid #ccc; 
+  
+}
+td{ 
+  font-size: 0.9em;    
+  background: rgba(255, 255, 255, 0.5); 
+
+
+}
+th{
+	display: none;
+}
+
+td h3{
+  margin-top: 3px;
+}
+td p{
+  margin-bottom: 3px;
+}
+
+
+
+
+
