@@ -57,7 +57,7 @@ function DM25_widgets_init() {
         'after_title' => '</h2>',
     ) );
 }
-add_action( 'widgets_init', 'deinthemenname_widgets_init' );
+add_action( 'widgets_init', 'DM25_widgets_init' );
 
 
 
